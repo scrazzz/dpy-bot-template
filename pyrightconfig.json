@@ -1,6 +1,0 @@
-{
-    "reportImplicitOverride": "none",
-    "reportOptionalMemberAccess": "none",
-    "reportUnusedCallResult": "none",
-    "reportUninitializedInstanceVariable": "information"
-}
